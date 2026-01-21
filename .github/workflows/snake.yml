@@ -8,24 +8,22 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Set Git user
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Generate snake GIF with custom colors
+      - name: Generate contribution snake (SVG)
         uses: Platane/snk@v3
         with:
           github_user_name: colelezzz
           outputs: |
-            dist/github-contribution-grid-snake.gif?color_snake=%23FF4FF3&color_dots=%233c7dd9,%234b91f1,%2364a1f4,%238dbdff,%23bfd6f6
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FF4FF3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish snake to 'output' branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
