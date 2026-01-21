@@ -141,10 +141,7 @@ You'll usually find me:
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/colelezzz/colelezzz/output/github-contribution-grid-snake.svg?v=2"
-    alt="snake eating my contributions"
-  />
+  <img src="https://raw.githubusercontent.com/colelezzz/colelezzz/output/github-contribution-grid-snake.gif" alt="snake eating my contributions"/>
 </p>
 
 <p align="center">
