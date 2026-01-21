@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/header.png" alt="Welcome Banner" />
+  <img src="files/header.png" alt="Welcome Banner" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ### ✨ About Me
 
-I professionally make websites *prettier*, *sassier*, and spend way too much time in Inspect Mode making sure everything is pixel-perfect.
+I professionally make websites *prettier*, *sassier*, and spend way too much time in <br> Inspect Mode making sure everything is pixel-perfect.
 
 You'll usually find me:
 - ☕ Cramming projects with questionable amounts of coffee
@@ -145,9 +145,20 @@ You'll usually find me:
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=colelezzz&label=Profile%20Views&color=FF4FF3&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=colelezzz&label=Profile%20Views&color=FF4FF3&style=for-the-badge"
+    alt="Profile views badge"
+  />
 </p>
 
+<div align="center">
+
+[![View CV](https://img.shields.io/badge/View%20CV-8C4FCF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/colelezzz/colelezzz/raw/main/files/MarifielColeenIsles_CV.pdf)
+&nbsp;
+[![Download CV](https://img.shields.io/badge/Download%20CV-FF4FF3?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/colelezzz/colelezzz/main/files/MarifielColeenIsles_CV.pdf)
+
+</div>
+
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FF3&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=281549&height=100&section=footer&text=Thank%20you%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 </p>
