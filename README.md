@@ -28,11 +28,11 @@
 
 **Frontend Dev | UI Maximalist | Button-Overthinker | Probably Adding Drop Shadows Somewhere | Proud PUP Student**
 
-<img src="https://i.pinimg.com/originals/a0/0b/81/a00b8172e777a06cb464d724dfa80c1e.gif" height="230" width="350" align="right">
+<img src="https://i.pinimg.com/originals/a0/0b/81/a00b8172e777a06cb464d724dfa80c1e.gif" height="230" width="330" align="right">
 
 ### ✨ About Me
 
-I professionally make websites *prettier*, *sassier*, and spend way too much time in <br> Inspect Mode making sure everything is pixel-perfect.
+I professionally make websites *prettier*, *sassier*, and spend way too much <br> time in Inspect Mode making sure everything is pixel-perfect.
 
 You'll usually find me:
 - ☕ Cramming projects with questionable amounts of coffee
@@ -153,9 +153,9 @@ You'll usually find me:
 
 <div align="center">
 
-[![View CV](https://img.shields.io/badge/View%20CV-8C4FCF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/colelezzz/colelezzz/raw/main/files/MarifielColeenIsles_CV.pdf)
+[![View CV](https://img.shields.io/badge/View%20CV-8C4FCF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/colelezzz/colelezzz/blob/main/files/MarifielColeenIsles_CV.pdf)
 &nbsp;
-[![Download CV](https://img.shields.io/badge/Download%20CV-FF4FF3?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/colelezzz/colelezzz/main/files/MarifielColeenIsles_CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download%20CV-FF4FF3?style=for-the-badge&logo=download&logoColor=white)](https://github.com/colelezzz/colelezzz/releases/download/v1.0/MarifielColeenIsles_CV.pdf)
 
 </div>
 
