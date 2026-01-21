@@ -136,7 +136,7 @@ You'll usually find me:
 
 ### 💬 Random Dev Quote
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=FF4FF3&author_color=ffffff&border_color=FF4FF3&bg_color=281549" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=%23FF4FF3&author_color=%23ffffff&border_color=%23FF4FF3&bg_color=%23281549" />
 </p>
 
 ## 🐍 Contribution Snake

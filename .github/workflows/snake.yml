@@ -9,8 +9,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # 1️⃣ Checkout the repo
       - uses: actions/checkout@v4
 
+      # 2️⃣ Set Git user for committing
+      - name: Set Git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 3️⃣ Generate the snake with custom colors
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -18,13 +26,16 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.gif?color_snake=%23FF4FF3&color_dots=%233c7dd9,%234b91f1,%2364a1f4,%238dbdff,%23bfd6f6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 4️⃣ Publish snake to 'output' branch
       - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
