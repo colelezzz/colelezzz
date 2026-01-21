@@ -134,11 +134,6 @@ You'll usually find me:
 - 📱 Master the sacred art of *"Looks good on mobile AND desktop"*
 - 🚀 Keep breaking stuff until it's pretty *and* functional
 
-### 💬 Random Dev Quote
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=%23FF4FF3&author_color=%23ffffff&border_color=%23FF4FF3&bg_color=%23281549" />
-</p>
-
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
