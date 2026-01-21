@@ -28,7 +28,7 @@
 
 **Frontend Dev | UI Maximalist | Button-Overthinker | Probably Adding Drop Shadows Somewhere | Proud PUP Student**
 
-<img src="https://i.pinimg.com/originals/a0/0b/81/a00b8172e777a06cb464d724dfa80c1e.gif" height="230" width="400" align="right">
+<img src="https://i.pinimg.com/originals/a0/0b/81/a00b8172e777a06cb464d724dfa80c1e.gif" height="230" width="350" align="right">
 
 ### ✨ About Me
 
@@ -93,10 +93,8 @@ You'll usually find me:
 <table align="center">
   <tr>
     <td>
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=colelezzz&theme=tokyonight&hide_border=true&fire=FF4FF3&ring=FF4FF3&currStreakLabel=FF4FF3&background=281549&stroke=FF4FF3&sideNums=ffffff&dates=ffffff&sideLabels=ffffff&currStreakNum=ffffff"
-        height="200"
-      />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colelezzz&layout=compact&theme=tokyonight&hide_border=true&title_color=FF4FF3&text_color=ffffff&bg_color=281549" height="200"
+  />
     </td>
     <td>
       <img
@@ -107,26 +105,19 @@ You'll usually find me:
   </tr>
 </table>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=colelezzz&layout=compact&theme=tokyonight&hide_border=true&title_color=FF4FF3&text_color=ffffff&bg_color=281549"
-    width="49%"  height="220"
-  />
-</p>
-
 ## 📌 Featured Projects
 <p align="center">
     <a href="https://github.com/colelezzz/colelezzz.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=colelezzz&repo=colelezzz.github.io&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" width="35%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=colelezzz&repo=colelezzz.github.io&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" width="40%" />
     </a>
     <a href="https://github.com/FINTALIX/PesoBuddy.com">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FINTALIX&repo=PesoBuddy.com&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" width="35%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FINTALIX&repo=PesoBuddy.com&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" width="40%" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/ProjectGymBoost/GymBoost.com">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectGymBoost&repo=GymBoost.com&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" width="35%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectGymBoost&repo=GymBoost.com&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" width="40%" />
     </a>
 </p>
 
