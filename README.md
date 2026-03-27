@@ -92,11 +92,11 @@ You'll usually find me:
 ## 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=colelezzz&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" 
+    src="https://github-readme-stats.vercel.app/api?username=colelezzz&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" 
     height="180"
   />
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=colelezzz&layout=compact&theme=tokyonight&hide_border=true&title_color=FF4FF3&text_color=ffffff&bg_color=281549" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=colelezzz&layout=compact&theme=tokyonight&hide_border=true&title_color=FF4FF3&text_color=ffffff&bg_color=281549" 
     height="180"
   />
 </p>
@@ -107,14 +107,14 @@ You'll usually find me:
 <p align="center">
   <a href="https://github.com/colelezzz/colelezzz.github.io">
     <img 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=colelezzz&repo=colelezzz.github.io&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=colelezzz&repo=colelezzz.github.io&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" 
       width="45%" 
     />
   </a>
 
   <a href="https://github.com/FINTALIX/PesoBuddy.com">
     <img 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FINTALIX&repo=PesoBuddy.com&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=FINTALIX&repo=PesoBuddy.com&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" 
       width="45%" 
     />
   </a>
@@ -123,7 +123,7 @@ You'll usually find me:
 <p align="center">
   <a href="https://github.com/ProjectGymBoost/GymBoost.com">
     <img 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ProjectGymBoost&repo=GymBoost.com&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectGymBoost&repo=GymBoost.com&theme=tokyonight&hide_border=true&icon_color=FF4FF3&title_color=FF4FF3&text_color=ffffff&bg_color=281549" 
       width="45%" 
     />
   </a>
