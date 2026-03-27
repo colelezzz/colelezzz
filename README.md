@@ -90,34 +90,28 @@ You'll usually find me:
 ## 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats-eight-sigma-67.vercel.app/api?username=colelezzz&show_icons=true&bg_color=00000000&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff" 
-    height="180"
+    src="https://github-readme-stats-eight-sigma-67.vercel.app/api?username=colelezzz&show_icons=true&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250" 
+  height="160"
   />
-  <img 
-    src="https://github-readme-stats-eight-sigma-67.vercel.app/api/top-langs/?username=colelezzz&layout=compact&bg_color=00000000&hide_border=true&title_color=FF4FF3&text_color=ffffff" 
-    height="180"
-  />
-</p>
-<p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=colelezzz&theme=tokyonight&hide_border=true&ring=FF4FF3&fire=FF4FF3&currStreakLabel=FF4FF3" 
-    height="180"
+    height="160"
   />
 </p>
 
 ## 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/colelezzz/colelezzz.github.io">
-    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=colelezzz&repo=colelezzz.github.io&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250&description_lines_count=1" width="32%"/>
+    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=colelezzz&repo=colelezzz.github.io&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250&description_lines_count=1" width="25%"/>
   </a>
   <a href="https://github.com/FINTALIX/PesoBuddy.com">
-    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=FINTALIX&repo=PesoBuddy.com&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250&description_lines_count=1" width="32%"/>
+    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=FINTALIX&repo=PesoBuddy.com&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250&description_lines_count=1" width="25%"/>
   </a>
   <a href="https://github.com/ProjectGymBoost/GymBoost.com">
-    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=ProjectGymBoost&repo=GymBoost.com&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250&description_lines_count=1" width="32%"/>
+    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=ProjectGymBoost&repo=GymBoost.com&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250&description_lines_count=1" width="25%"/>
   </a>
   <a href="https://github.com/colelezzz/gamedev">
-    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=colelezzz&repo=gamedev&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250&description_lines_count=1" width="32%"/>
+    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=colelezzz&repo=gamedev&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250&description_lines_count=1" width="25%"/>
   </a>
 </p>
 
