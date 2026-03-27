@@ -42,8 +42,6 @@ You'll usually find me:
 
 > *"It's not a bug, it's an aesthetic challenge."*
 
-<br clear="right"/>
-
 ## 🛠️ My Code Arsenal
 
 **Programming & Technical Foundation**
