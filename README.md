@@ -110,18 +110,16 @@ You'll usually find me:
 ## 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/colelezzz/colelezzz.github.io">
-    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=colelezzz&repo=colelezzz.github.io&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff" width="45%"/>
+    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=colelezzz&repo=colelezzz.github.io&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250&description_lines_count=1" width="32%"/>
   </a>
   <a href="https://github.com/FINTALIX/PesoBuddy.com">
-    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=FINTALIX&repo=PesoBuddy.com&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff" width="45%"/>
+    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=FINTALIX&repo=PesoBuddy.com&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250&description_lines_count=1" width="32%"/>
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/ProjectGymBoost/GymBoost.com">
-    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=ProjectGymBoost&repo=GymBoost.com&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff" width="45%"/>
+    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=ProjectGymBoost&repo=GymBoost.com&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250&description_lines_count=1" width="32%"/>
   </a>
   <a href="https://github.com/colelezzz/gamedev">
-    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=colelezzz&repo=gamedev&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff" width="45%"/>
+    <img src="https://github-readme-stats-eight-sigma-67.vercel.app/api/pin/?username=colelezzz&repo=gamedev&bg_color=281549&hide_border=true&title_color=FF4FF3&icon_color=FF4FF3&text_color=ffffff&card_width=250&description_lines_count=1" width="32%"/>
   </a>
 </p>
 
