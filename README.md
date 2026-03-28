@@ -19,8 +19,8 @@
     <a href="https://www.facebook.com/coleen.isles">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook">
     </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/cln.selsi">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram">
+    <a href="www.linkedin.com/in/coleen-isles-17o4o611">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
     </a>
 </p>
 
@@ -82,11 +82,6 @@ You'll usually find me:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
 </p>
 
-**Bonus Abilities:**
-- ✔ Obsessing over tiny alignment issues
-- ✔ Fixing little design things no one notices… but I do
-- ✔ Smashing `Ctrl + S` every 3 seconds for peace of mind
-
 ## 📊 GitHub Stats
 <p align="center">
   <img 
@@ -124,13 +119,6 @@ You'll usually find me:
     />
   </a>
 </p>
-
-## 🎯 Life Goals
-
-- 💜 Make the internet 75% cuter — preferably with lots of purple
-- ✨ Add hover states *just because*
-- 📱 Master the sacred art of *"Looks good on mobile AND desktop"*
-- 🚀 Keep breaking stuff until it's pretty *and* functional
 
 ## 🐍 Contribution Snake
 <p align="center">
