@@ -42,45 +42,14 @@ You'll usually find me:
 
 > *"It's not a bug, it's an aesthetic challenge."*
 
-## 🛠️ My Code Arsenal
+## 🔧 Tech Stack
 
-**Programming & Technical Foundation**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30"/>
-</p>
-
-**Quality Assurance & Testing**
-
-<p>
-  <img src="https://img.shields.io/badge/Manual_Testing-607D8B?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Test_Case_Design-E91E63?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Bug_Tracking-F44336?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/User_Acceptance_Testing-3F51B5?style=for-the-badge" height="30"/>
-</p>
-
-**Project Management & Collaboration**
-
-<p>
-  <img src="https://img.shields.io/badge/Task_Planning-4CAF50?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Timeline_Tracking-2196F3?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Documentation-FF9800?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Agile-FF2D20?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" height="30"/>
-</p>
-
-**Tools & Frameworks:**
-
-<p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
-</p>
+| Category | Skills |
+|----------|--------|
+| **Programming** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| **QA & Testing** | ![Manual Testing](https://img.shields.io/badge/Manual_Testing-607D8B?style=for-the-badge) ![Test Case Design](https://img.shields.io/badge/Test_Case_Design-E91E63?style=for-the-badge) ![Bug Tracking](https://img.shields.io/badge/Bug_Tracking-F44336?style=for-the-badge) ![UAT](https://img.shields.io/badge/User_Acceptance_Testing-3F51B5?style=for-the-badge) |
+| **Project Management** | ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge) ![Agile](https://img.shields.io/badge/Agile-FF2D20?style=for-the-badge) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![Task Planning](https://img.shields.io/badge/Task_Planning-4CAF50?style=for-the-badge) ![Documentation](https://img.shields.io/badge/Documentation-FF9800?style=for-the-badge) |
+| **Tools** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ## 📊 GitHub Stats
 <p align="center">
